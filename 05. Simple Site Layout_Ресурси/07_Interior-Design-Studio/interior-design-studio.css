@@ -1,0 +1,12 @@
+img{
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    left: 180px;
+    top: 60px;
+    text-shadow: 1px 1px 20px black;
+    color: antiquewhite;
+    z-index: 2;
+}

@@ -1,0 +1,32 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+ul li{
+    list-style-type:none;
+    display: inline-block;
+}
+
+a{
+    margin-right: 30px;
+    color: green;
+    text-decoration: none;
+}
+
+header h1{
+    margin-right: 70px;
+    font-size: 40px;
+    display: inline-block;   
+}
+
+h1, nav{
+    display: inline-block;
+}
+
+main h1{
+    font-family: Georgia, serif ;
+    font-weight: 100;
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}

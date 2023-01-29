@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px;
+    background-color: rgb(225, 225, 225);
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:30px;
+}
+
+
+li{
+    display:flex;
+    justify-content: space-around;
+    border: 8px solid black;
+    padding: 1rem;
+    align-items: center;
+    background-color: rgb(255, 244, 244);
+    box-shadow: 0px 0px 15px 15px #b6b5b5, inset 0px 0px 28px 3px #848083;
+}
+
+img{
+ width: 80%;
+ height: auto;
+}

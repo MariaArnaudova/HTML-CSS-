@@ -1,0 +1,30 @@
+
+body{
+    font-family:Helvetica, sans-serif;
+    background-color:  rgb(238, 238, 238);
+    color: rgb(51, 51, 51);  
+    margin: 15px 40px;  
+}
+
+article{
+    width: 60%;
+    margin-right: auto;
+    display: inline-block;
+}
+
+aside{
+    display:  inline-block;
+    width: 30%;
+    margin-left: auto;
+    vertical-align: top;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif ;
+}
+
+img{
+    width: 75%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

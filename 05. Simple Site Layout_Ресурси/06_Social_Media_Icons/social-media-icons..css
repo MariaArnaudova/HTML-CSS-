@@ -1,0 +1,35 @@
+@import url(https://use.fontawesome.com/releases/v5.10.2/css/all.css);
+
+ body{
+    margin-top: 50px;
+ }
+
+ul {
+    display: inline-grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 24px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+}
+
+i{
+    color: rgb(93, 93, 93) ;
+}
+
+i:hover{
+    cursor: pointer;
+    color: rgb(89, 114, 202);
+}
+
+a{
+    padding: 25px;
+    border-radius: 50%;
+    background-color: rgb(230, 230, 230);
+}

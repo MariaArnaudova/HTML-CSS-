@@ -1,0 +1,31 @@
+/* @import 'https://use.fontawesome.com/releases/v5.10.2/css/all.css'; */
+p{
+    display: inline-block;
+}
+
+.input-icons{
+    position: relative;
+    text-align: center;
+}
+
+ .input-icons i{
+    position: absolute;
+    left: 80px;
+} 
+
+form{
+    width: 30%;
+    height: 20%;
+    border-style: 2px solid black;
+    background-color: rgb(232, 231, 231);
+}
+
+fieldset{
+    position: relative;
+}
+
+button{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
